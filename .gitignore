@@ -172,6 +172,8 @@ cython_debug/
 
 # temp data
 .arrow
+.json
 
 # documents
 .pdf
+.docx
